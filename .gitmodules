@@ -1,0 +1,3 @@
+[submodule "eco-libs"]
+	path = eco-libs
+	url = https://github.com/kroma-network/eco-contract-libs
